@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
-url: "https://dragon-and-magpie.netlify.app"   #change this to yours
+url: "https://scribbles-and-marginalia.netlify.app"   #change this to yours
 repository: DragonAndMagpie/BrookesBlog
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb

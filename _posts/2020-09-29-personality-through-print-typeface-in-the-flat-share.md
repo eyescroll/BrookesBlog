@@ -14,4 +14,6 @@ Most important of the four texts are those used in the title, as these are the o
 
 However, the two fonts are drawn together (as the characters themselves are) by two things. Firstly is the fact that, as shown in the cover art, the two are literally in bed together due to their unorthodox rental agreement. The second is, surprisingly, the varied line weight in the words. Tiffy's provides an almost-calligraphic edge to her font as she perseveres and the "pen" flows. In comparison, Leon's typeface features thinner crossbars in almost all his letters, perhaps also an indication of emotional fluctuations during the books where he shifts from his standard mindset of "Just keep it together". Or else these narrower lines could also be where he has been worn down by his responsibilities to brother Richie, girlfriend Kay, and his "Mam".
 
+
+
 Cover designers likely deliberately created the uneven split of the type to show how Tiffy gradually influences Leon and changes his life- beginning by covering the flat in her belongings upon arrival, just as she takes over the title. Meanwhile his placement at the bottom shows the strong foundation he provided for her to come to terms with issues pre-existing the novel and allowing her to grow.

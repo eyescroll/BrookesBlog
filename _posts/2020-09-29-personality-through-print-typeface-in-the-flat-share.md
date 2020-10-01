@@ -16,4 +16,8 @@ However, the two fonts are drawn together (as the characters themselves are) by 
 
 
 
-Cover designers likely deliberately created the uneven split of the type to show how Tiffy gradually influences Leon and changes his life- beginning by covering the flat in her belongings upon arrival, just as she takes over the title. Meanwhile his placement at the bottom shows the strong foundation he provided for her to come to terms with issues pre-existing the novel and allowing her to grow.
+Cover designers likely deliberately created the uneven split of the type to show how Tiffy gradually influences Leon and changes his life- beginning by covering the flat in her belongings upon arrival, just as she takes over the title. Meanwhile his placement at the bottom shows the strong foundation he provided for her to come to terms with issues pre-existing the novel and allowing her to grow. This behind-the-scenes aspect is continued in the book as it is Tiffy that has a greater amount of agency within the story that gives her the lead in guiding the plot and therefore allows her to lead it and Leon into unfamiliar territories by being a welcome yet disruptive influence on his stability.
+
+
+
+Whether these typographic choices were conscious decisions on the part of the design team, or simply fortuitous coincidences, one thing is clear; the two title fonts give an interesting view into the personalities of the characters that serves as an extension of their voices and attitudes within the text itself.

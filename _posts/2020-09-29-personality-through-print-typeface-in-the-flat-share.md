@@ -6,7 +6,7 @@ header_feature_image: ../uploads/theflatsharecover.jpg
 caption: Beth O'Leary's bestselling debut novel
 comments: true
 ---
-Beth O'Leary's *The Flatshare*, the bestselling romantic comedy, is a book of two faces. The exuberant and optimistic Tiffy contrasting against pragmatic and candid Leon in narrative voice and writing style to give two distinct protagonists with distinct personalities. This disparity debouches from within the story on the page to the typefaces on the cover.
+Beth O'Leary's *The Flatshare*, the bestselling romantic comedy, is a book of two faces; the exuberant and optimistic Tiffy contrasting against the pragmatic and candid Leon. This contrast in narrative voice and writing style gives two distinct protagonists with easily distinguishable personalities. This disparity debouches from within the story on the page to the typefaces on the cover.
 
 The cover of the first-edition hardback (as seen above) features four different typefaces- the gold writing, the tagline and reviews, and the two in the title. Each one has a different purpose and voice to it, yet the most important are undoubtedly those in the title of the novel.
 

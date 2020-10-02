@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-The title of this blog is something known and done by any number of book enthusiasts. Marginalia are the annotations and notes made by readers in the margins of the texts, and have a long tradition from scholars and scribes alike. Both academic and humorous images and comments were included. So the name of this blog is an homage to long-ago readers and writers.
+The title of this blog is something known and done by any number of book enthusiasts. Marginalia are the annotations and notes made by readers in the margins of the texts, and have a long tradition from scholars and scribes alike. Both academic and humorous images and comments were included. To name this blog thusly is to honour this tradition and those long-ago readers and writers.
 
 
 

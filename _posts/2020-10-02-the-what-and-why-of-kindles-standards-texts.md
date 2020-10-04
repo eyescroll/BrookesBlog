@@ -33,3 +33,5 @@ Based on the iPhone app and Kindle Fire 7, there are ten typefaces:
 
 
 ![](../uploads/article2-kindlefonts-edited-.jpg "https://blog.the-ebook-reader.com/2017/10/12/kindle-software-update-arrives-with-new-bold-and-font-settings/")
+
+Those above

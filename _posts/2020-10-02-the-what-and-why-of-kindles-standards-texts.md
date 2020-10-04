@@ -6,10 +6,10 @@ comments: true
 ---
 Kindle, as the majority of people know, is a tablet reading device created to enable the reading of Amazon's eBooks (or Kindle books). In order to allow these to be read with ease for a range of customers, Kindle devices and apps have a small range of typefaces to allow readers to choose the one they prefer. But what are these fonts, and why have they chosen them?
 
-
-
 Based on the most recent iPhone app and Kindle Fire 7, there are ten typefaces:
 
 ![](../uploads/article2-known-kindlefonts.jpg "(Known) Kindle Fonts")
 
 Those above are the default typefaces available (although there are instructions available online on how to download others for use if the reader desires a specific alternative).
+
+Each typeface has a clear and distinct "voice", yet only vary in a limited capacity. All are semi-rounded, non-cursive and lack the sloped aspect of italics. Every one is incredibly legible with easily distinguishable letters for ease of reading in order to allow customers the simplicity of content access and discernment.

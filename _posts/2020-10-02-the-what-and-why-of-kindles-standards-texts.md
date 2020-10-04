@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (The What of) Kindle's Standards Texts
+title: Identifying (The What of) Kindle's Standards Texts
 date: 2020-10-02T17:47:33.138Z
 comments: true
 ---

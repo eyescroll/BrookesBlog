@@ -12,4 +12,4 @@ Based on the most recent iPhone app and Kindle Fire 7, there are ten typefaces:
 
 ![](../uploads/article2-known-kindlefonts.jpg "(Known) Kindle Fonts")
 
-Those above
+Those above are the default typefaces available (although there are instructions available online on how to download others for use if the reader desires a specific alternative).

@@ -24,7 +24,7 @@ Based on the iPhone app and Kindle Fire 7, there are ten typefaces:
 
 7. Helvetic Light
 
-8.  Lucidia
+8.  Lucida
 
 9.  OpenDyslexic
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (The What and Why of) Kindle's Standards Texts
+title: (The What of) Kindle's Standards Texts
 date: 2020-10-02T17:47:33.138Z
 comments: true
 ---
@@ -12,6 +12,12 @@ Based on the most recent iPhone app and Kindle Fire 7, there are ten typefaces:
 
 Those above are the default typefaces available (although there are instructions available online on how to download others for use if the reader desires a specific alternative).
 
-Each typeface has a clear and distinct "voice", yet only vary in a limited capacity. All are semi-rounded, non-cursive and lack the sloped aspect of italics. Every one is incredibly legible with easily distinguishable letters for ease of reading in order to allow customers the simplicity of content access without questioning the spelling of the words and ruining the flow of the story.
+Each typeface has a clear and distinct "voice", yet most only vary in a limited capacity. All are semi-rounded, non-cursive and lack the sloped aspect of italics. Every one is incredibly legible with easily distinguishable letters for ease of reading in order to allow customers the simplicity of content access without questioning the spelling of the words and ruining the flow of the story.
 
-A combination of letter shaping, line thickness, and serif placement differentiates these typefaces. For example, Georgia and Baskerville are quite similar on casual sighting. Yet there are differences when looked at more closely. A focus on the lowercase 'e's exemplifies these. The counters (holes in the letters) are different vertical depths; the inner curve of the left edge is smooth on Georgia but straight on Baskerville; the horizontal part of the 'r' is more elongated on Baskerville; and the more compact nature of Baskerville's height overall.
+A combination of letter shaping, line thickness, and serif placement differentiates these typefaces. For example, Georgia and Baskerville are quite similar on casual sighting. Yet there are differences when looked at more closely. A focus on the lowercase 'e's exemplifies these. The counters (holes in the letters) are different vertical depths; the inner curve of the left edge is smooth on Georgia but straight on Baskerville; the horizontal part of the 'r' is more elongated on Baskerville; and the more compact nature of Baskerville's height overall. Minute details that differentiate between the two typefaces in a manner that is discernible without being overt.
+
+The outlier of the group, is obviously, the Open Dyslexic typeface. This is an open-source typeface made publicly available and weighted alternatively on different letters to help distinguish them*. It allows a more side-lined group of content consumers to read their purchases more easily.
+
+
+
+\* https://www.opendyslexic.org/about

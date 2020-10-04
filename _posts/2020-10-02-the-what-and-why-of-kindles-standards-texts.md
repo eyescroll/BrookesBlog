@@ -8,30 +8,8 @@ Kindle, as the majority of people know, is a tablet reading device created to en
 
 
 
-Based on the iPhone app and Kindle Fire 7, there are ten typefaces:
+Based on the most recent iPhone app and Kindle Fire 7, there are ten typefaces:
 
-1. Amazon Ember Bold
-
-2. Baskerville
-
-3. Bookerly
-
-4. Caecilia
-
-5. Georgia
-
-6. Helvetica
-
-7. Helvetic Light
-
-8.  Lucida
-
-9.  OpenDyslexic
-
-10. Palatino
-
-
-
-![](../uploads/article2-kindlefonts-edited-.jpg "https://blog.the-ebook-reader.com/2017/10/12/kindle-software-update-arrives-with-new-bold-and-font-settings/")
+![](../uploads/article2-known-kindlefonts.jpg "(Known) Kindle Fonts")
 
 Those above

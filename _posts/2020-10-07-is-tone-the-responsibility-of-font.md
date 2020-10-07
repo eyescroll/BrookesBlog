@@ -6,4 +6,4 @@ comments: true
 ---
 A word can have a number of meanings and interpretations, especially when written. One way to indicate tone is through the typeface and font, which is incredibly common in most forms of media. Yet simply because it *can* indicate tone, does this mean it *should*?
 
-It is easy to say yes. The subconscious effect of typeface has been well documented (<https://www.youtube.com/results?search_query=ted+typography>) and is a major field of study in typography. Why should writers and designers and marketers waste such a valuable and easily accessible tool when it has proven so effective?
+It is easy to say yes. The subconscious effect of typeface has been well documented (<https://www.youtube.com/results?search_query=ted+typography>) and is a major field of study in typography. Why should writers and designers and marketers waste such a valuable and easily accessible tool when it has proven so effective? A serif for class, size for emphasis and to draw focus, cursive/script/handwritten styles for a more personal touch, novelty to depict genre or origin; even a minor change in design can shake the word to its core (its very meaning).

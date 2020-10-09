@@ -2,6 +2,8 @@
 layout: post
 title: Is Tone the Responsibility of Font?
 date: 2020-10-07T19:43:32.672Z
+header_feature_image: ../uploads/article3-headerimage-byamadorloureiro-.jpg
+caption: Photograph provided by Amador Loureiro via Unsplash
 comments: true
 ---
 A word can have a number of meanings and interpretations, especially when written. One way to indicate tone is through the typeface and font, which is incredibly common in most forms of media. Yet simply because it *can* indicate tone, does this mean it *should*?

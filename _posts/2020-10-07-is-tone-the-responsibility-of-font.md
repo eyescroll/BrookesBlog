@@ -19,3 +19,5 @@ And yet, to rely too heavily on typography to convey tone and meaning could also
 Sometimes, however, typeface is essential to the message of a word. Certain brands rely on their font as part of their identity; others need typeface to appeal to their core market in competitive areas; more still are dependent on it for emphasis where every inch of space and detail is at a premium. If there are no clear alternatives- no adverbs on speech, no body language in conversation, no tone of voice- then type may be the only way to present tone.
 
 ![](../uploads/article3-walterfuneralhome.jpg)
+
+Which of these three is most likely to assist the company in being hired?

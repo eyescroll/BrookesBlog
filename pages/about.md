@@ -13,3 +13,9 @@ show: true
 The title of this blog is something known and done by any number of book enthusiasts. Marginalia are the annotations and notes made by readers in the margins of texts, and is a long-standing tradition from scholars and scribes alike. Images and notes of both an academic and humorous nature were included. To name this blog, and design the logo, thusly is to honour this tradition and those long-ago readers and writers.
 
 This is a media blog, focusing mainly on book-associated commentaries. The current focus is on paratextual analysis, specifically on typography and cover design. Later, the range of content will expand to include creative writing, literary reviews or commentaries, and more varied subjects.
+
+
+
+
+
+Image courtesy of [Macau Photo Agency](https://unsplash.com/photos/MhTd1wQobiM) on Unsplash

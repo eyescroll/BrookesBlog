@@ -2,7 +2,7 @@
 layout: post
 title: Identifying Kindle's Standard Texts
 date: 2020-10-02T17:47:33.138Z
-header_feature_image: ../uploads/article2-header.jpg
+header_feature_image: ../uploads/article2-header-cropped-.jpg
 comments: true
 ---
 Kindle can refer to several things, including to begin lighting a fire, the Amazon e-readers, and the Amazon eBooks designed for the afore-mentioned devices. The focus here will be the final meaning; the MOBI file digital editions of books. In order to allow these to be read with ease for a range of customers, Kindle devices and apps have a small range of typefaces to allow readers to choose the one they prefer. But what are these fonts, and why have they chosen them?

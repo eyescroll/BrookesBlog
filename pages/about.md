@@ -14,6 +14,8 @@ The title of this blog is something known and done by any number of book enthusi
 
 This is a media blog, focusing mainly on book-associated commentaries. The current focus is on paratextual analysis, specifically on typography and cover design. Later, the range of content will expand to include creative writing, literary reviews or commentaries, and more varied subjects.
 
-The logo is the corner of a book, with the name intended to represent the notes made by readers- with the pencil nearby to show they have been added. While handwritten texts are typically sans-serif and less uniform than the font used in the logo, a more formal font was chosen to better represent the intended tone of the blog and its articles. The red of the pencil and book cover, too, was chosen for its more professional or scholarly tones, as well as to add colour and interest to the logo itself.
+The logo is the bottom-right corner of an open book, with the name intended to represent the notes made by readers- with a pencil nearby to show they have been added. While handwritten texts are typically sans-serif and less uniform than the font used in the logo, a more formal font was chosen to better represent the intended tone of the blog and its articles. The red of the pencil and book cover, too, was chosen for its more professional or scholarly tones, as well as to add colour and interest to the logo itself.
+
+Meanwhile, the favicon is that same pencil being used on the book itself, as new commentaries are added and website expands.
 
 Image courtesy of [Macau Photo Agency](https://unsplash.com/photos/MhTd1wQobiM) on Unsplash

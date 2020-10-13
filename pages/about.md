@@ -18,4 +18,4 @@ The logo is the bottom-right corner of an open book, with the name intended to r
 
 Meanwhile, the favicon is that same pencil being used on the book itself, as new commentaries are added and website expands.
 
-Image courtesy of [Macau Photo Agency](https://unsplash.com/photos/MhTd1wQobiM) on Unsplash
+Image courtesy of [Macau Photo Agency](https://unsplash.com/photos/MhTd1wQobiM) on Unsplash.

@@ -17,4 +17,4 @@ Within the covers are an assortment of fonts. The main variations are for advert
 
 "Stay engaged it," it implies. "Buy us again; we're worth the money for the content and you help someone in the process."
 
-Mostly, though, the text is the body of the articles, which is in a single typeface.
+Mostly, though, the text is the body of the articles, which is in a single typeface. This sans-serif font of slightly-greater-than-average x-height is more rounded than many others, giving it a less austere appearance.

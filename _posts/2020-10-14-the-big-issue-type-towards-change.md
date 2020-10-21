@@ -10,3 +10,11 @@ For those (hopefully few) who are unaware, The Big Issue is a charity attempting
 ![](../uploads/article4-logo.jpg "https://www.bigissue.com/magazines/reasons-to-be-cheerful/")
 
 Their logo is very simple: large sans-serif, bold type in all capitals. It is almost more of a statement than a logo, demanding that people recognise the problem rather than dismiss it or marginalise its victims. Yet despite the intense, upfront nature, the title is an allusion to the problem rather than a declaration of it. Perhaps because the brand and sellers make the problem clear without the need for the title to state it at this point? Or perhaps because the charity wishes for the public to recognise the severity of the issue on their own?
+
+Information around the title is less "confrontational". The lower size and thinner line weight avoid diverting attention from the main title, while remaining in the same typeface to provide a more cohesive design. These details are differentiated within themselves as well. The issue number and tagline are not in bold, unlike the rest of the logo, but remain monospaced despite the different line weight, adding a point of interest without contrasting in a jarring manner.
+
+Within the covers are an assortment of fonts. The main variations are for advertisements, and the titles and quotes. The former are paying for the space in the magazine and therefore control how those pages are designed,  down to the typeface in order to represent their ideals rather than *The Big Issue*'s. The latter, however, are scattered throughout the issue. These are colourful and graphic in a way that draws attention and interest to keep readers focused on the magazine and invite them to repurchase in future.
+
+"Stay engaged it," it implies. "Buy us again; we're worth the money for the content and you help someone in the process."
+
+Mostly, though, the text is the body of the articles, which is in a single typeface.

@@ -19,4 +19,6 @@ The traditional logo encapsulates the title of the magazine, as it is almost a r
 
 Within the covers are an assortment of fonts. The main variations are for advertisements, and the subtitles and quotes. The former are paying for the space in the magazine and therefore control how those pages are designed,  down to the typeface in order to represent their ideals rather than *The Big Issue*'s. 
 
+![](../uploads/article4-articlephoto.jpeg)
+
 Mostly, though, the text is the body of the articles, which is in a single typeface. This sans-serif font of slightly-greater-than-average x-height is more rounded than many others, giving it a less austere appearance than the more compressed texts used in academic or news materials. Yet it remains a clear font that engages the audience without feeling overly familiar or informal. It strikes the balance between the cheerful novelty fonts used throughout for attention a more traditional text font such as Times New Roman.

@@ -10,6 +10,8 @@ What do these three novels have in common? All three were written by female auth
 
 ![](../uploads/article5-header.jpg)
 
-The three are have "similar" paratextual elements in some regards. In these editions, all have a bold and vivid red colour prominent on them. All focus on the title as a, or the, major element of the cover's layout.
+The three are have "similar" paratextual elements in some regards. In these editions, all have a bold and vivid red colour prominent on them. All focus on the title as a, or even *the*, major element of the cover's layout. This could have two reasons. The first is that for each of these books, the title is the focus of the plot. Atwood's *The Handmaid's Tale* is, according to the "epilogue", the transcription of the recorded musings of an escaped Handmaid from Gilead, an extreme and violent patriarchy. Alderman's *The Power* questions what would happen if women suddenly gained a physical advantage over men, and how would this change society? And *Vox* by Daschler follows the story of a woman in a country where women are silenced by law. All three have titles that encapsulate the focus of the book.
+
+
 
 All images courtesy of Goodreads.

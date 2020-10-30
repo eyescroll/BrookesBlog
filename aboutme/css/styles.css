@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("background_library.jpg");
+	background-image: url("img/background_library.jpg");
 	background-size: cover;
 }
 /*This image was found at https://unsplash.com/photos/yEQ9TOaL5FM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink*/

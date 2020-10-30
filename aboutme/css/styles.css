@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("C:/Users/sammy/Documents/OxfordBrookes/MJPB5003-TypographyForPageAndScreen/Assignment2/img/background_library.jpg");
+	background-image: url("img/background_library.jpg");
 	background-size: cover;
 }
 /*This image was found at https://unsplash.com/photos/yEQ9TOaL5FM?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink*/
@@ -22,7 +22,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("C:/Users/sammy/Documents/OxfordBrookes/MJPB5003-TypographyForPageAndScreen/Assignment2/img/dragos_profile_pic.jpg");
+	background-image: url("img/dragos_profile_pic.jpg");
 	background-position: center;
 	width: 280px;
 	height: 280px;

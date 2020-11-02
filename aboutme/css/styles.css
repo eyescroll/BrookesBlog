@@ -178,7 +178,7 @@ body {
 }
 
 .image__overlay:hover > * {
-    transform: translateY(1);
+    transform: translateY(10px);
 }
 
 .image__title {

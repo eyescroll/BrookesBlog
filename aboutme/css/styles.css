@@ -144,19 +144,19 @@ body {
 
 
 /*   Overlay image   */
-.hover-image {
+.hover_image {
 		margin-left: auto;
 		margin-right: auto;
 		position: relative;
     width: 500px;
 }
 
-.image__img {
+.image_img {
     display: block;
     width: 100%;
 }
 
-.image__overlay {
+.image_overlay {
     position: absolute;
     top: 0;
     left: 0;
@@ -173,29 +173,29 @@ body {
     transition: opacity 0.25s;
 }
 
-.image__overlay:hover {
+.image_overlay:hover {
     opacity: 1;
 }
 
-.image__overlay:hover > * {
+.image_overlay:hover > * {
     transform: translateY(10px);
 }
 
-.image__title {
+.image_title {
     font-size: 2em;
     font-weight: bold;
 }
 
-.image__overlay--blur {
+.image_overlay_blur {
     backdrop-filter: blur(10px);
 }
 
-.image__overlay > * {
+.image_overlay > * {
     transform: translateY(20px);
     transition: transform 0.25s;
 }
 
-.image__description {
+.image_description {
     font-size: 1em;
     margin-top: 0.25em;
 		color: white;
